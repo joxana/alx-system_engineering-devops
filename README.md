@@ -1,3 +1,1 @@
-#!/bin/bash
-a repo for my shell basic quiz
-
+a repo for a basic shell quiz
