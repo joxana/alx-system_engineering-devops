@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Famx
+ls -FamX
