@@ -1,1 +1,1 @@
-a repo for a basic shell quiz
+a script to swith a user
