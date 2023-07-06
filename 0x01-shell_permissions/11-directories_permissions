@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+Wx 0x01-shell_permissions
+chmod a+WX 0x01-shell_permissions
