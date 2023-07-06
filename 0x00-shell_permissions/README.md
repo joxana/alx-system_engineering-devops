@@ -1,1 +1,0 @@
-a script to switch a user
