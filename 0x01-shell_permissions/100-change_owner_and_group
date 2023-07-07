@@ -1,2 +1,3 @@
 #!/bin/bash
-chown --from=vincent:staff .
+chown vincent : staff hello  .
+
